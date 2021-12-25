@@ -1,0 +1,11 @@
+#box {
+	height: 300px;
+	width: 300px;
+	background-color:black; 
+	margin:35px;
+	border-color: red;
+	border-style: outset;
+	border-width: 8px;
+
+
+}
